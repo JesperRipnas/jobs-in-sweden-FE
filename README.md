@@ -27,7 +27,7 @@ FOLDER
 Run docker images in detached mode & print new containers.
 
 ```
-cd Compose Folder
+cd orchestration Folder
 
 docker-compose -p JIS -f docker-compose.yml -f docker-compose-dev.yml up -d --build
 ```
