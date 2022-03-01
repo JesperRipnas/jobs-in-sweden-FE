@@ -21,7 +21,7 @@ The application is composed of [Frontend](https://github.com/robinferm/jobs-in-s
 FOLDER
 ├── backend
 ├── frontend
-└── Compose
+└── orchestration
 ```
 
 Run docker images in detached mode & print new containers.
