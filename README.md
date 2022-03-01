@@ -15,7 +15,7 @@ Documentation: [Docker docs](https://docs.docker.com/compose/install/ "Docker De
 
 ### Development WorkFlow
 
-The application is composed of [Frontend](https://github.com/robinferm/jobs-in-sweden-FE "Frontend Repo") and [Backend](https://github.com/robinferm/jobs-in-sweden-BE "Backend repo") services. For orchestration to work properly all three repositories should be cloned in the same containing folder:
+The application is composed of [Frontend](https://github.com/robinferm/jobs-in-sweden-FE "Frontend Repo") and [Backend](https://github.com/robinferm/jobs-in-sweden-BE "Backend repo") services. For [orchestration](https://github.com/robinferm/jobs-in-sweden-DockerCompose "compose repo") to work properly all three repositories should be cloned in the same containing folder:
 
 ```
 FOLDER
